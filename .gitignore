@@ -3,6 +3,7 @@
 /bin/
 target/
 .idea
+/out/
 
 *.iml
 
